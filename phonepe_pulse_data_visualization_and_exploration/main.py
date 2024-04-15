@@ -14,7 +14,7 @@ from streamlit_option_menu import option_menu
 
 #Setting up the page
 
-st.set_page_config(page_title= " Best Algorithm Selection| By Surabhi Yadav",
+st.set_page_config(page_title= "Phonepe Pulse Data Visualization and Exploration | By Surabhi Yadav",
                    page_icon= ":💵:", 
                    layout= "wide",
                    initial_sidebar_state= "expanded",
